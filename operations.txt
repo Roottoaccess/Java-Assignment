@@ -1,0 +1,12 @@
+biswarupdutta@192 Assignment_Java_1 % java operations 
+Enter the first number: 12
+Enter the second number: 25
+Sum: 37
+Bitwise and: 8
+Bitwise or: 29
+Bitwise xor: 21
+Left shift: 48
+Right shift: 1
+Logical And not satisfied !
+Logical Or satisfied !
+biswarupdutta@192 Assignment_Java_1 % 
