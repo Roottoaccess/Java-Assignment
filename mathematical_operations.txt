@@ -1,0 +1,8 @@
+biswarupdutta@192 Assignment_Java_1 % java mathematical_operations 
+Enter the number: 12
+Enter your choice (a to c): c
+12 is not a prime number !!
+Enter 3-digit number: 153
+Sum of this three digit is: 9
+The reverse of the number: 351
+biswarupdutta@192 Assignment_Java_1 % 
