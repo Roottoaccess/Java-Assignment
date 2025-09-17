@@ -1,0 +1,24 @@
+biswarupdutta@192 Assignment_Java_1 % javac matrics_addition.java 
+biswarupdutta@192 Assignment_Java_1 % java matrics_addition 
+Enter the row: 2
+Enter the column: 2
+Enter the elements one by one of 1st matrix......
+1
+2 
+3
+4
+The first array.......
+1 2 
+3 4 
+Enter the elements one by one of 2nd matrix......
+5
+6
+7
+8
+The second array.......
+5 6 
+7 8 
+After adding the two matrix......
+6 8 
+10 12 
+biswarupdutta@192 Assignment_Java_1 % 
