@@ -1,0 +1,12 @@
+biswarupdutta@192 Assignment_Java_1 % javac reverse_array.java 
+biswarupdutta@192 Assignment_Java_1 % java reverse_array 
+Enter the limit: 5
+Enter the elements one by one......
+1
+3
+5
+7
+9
+1 3 5 7 9 
+Reversed array....
+5 4 3 2 1
