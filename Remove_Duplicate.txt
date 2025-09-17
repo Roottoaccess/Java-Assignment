@@ -1,0 +1,12 @@
+biswarupdutta@192 Assignment_Java_1 % javac RemoveDuplicates.java  
+biswarupdutta@192 Assignment_Java_1 % java RemoveDuplicates 
+Enter the limit: 4
+Enter the values one by one: 
+1
+1
+2
+3
+Original Array:
+1 1 2 3 
+Array after removing duplicates:
+1 2 3 
