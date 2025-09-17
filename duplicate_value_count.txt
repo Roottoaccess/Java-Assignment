@@ -1,0 +1,13 @@
+biswarupdutta@192 Assignment_Java_1 % javac duplicate_value_count.java
+biswarupdutta@192 Assignment_Java_1 % java duplicate_value_count      
+Enter the limit: 4
+Enter the values one by one: 
+1
+2
+1
+4
+Original Array:
+1 2 1 4 
+Value 1 occurs 2 times
+Total number of duplicate values: 1
+biswarupdutta@192 Assignment_Java_1
